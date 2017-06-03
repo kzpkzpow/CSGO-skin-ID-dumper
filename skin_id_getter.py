@@ -5,7 +5,7 @@ import os
 # If you use Windblows :P C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/
 # If you use a Mac use /Users/USER/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/
 
-SteamPath = ' '
+SteamPath = ' Change Me :) '
 
 skindata = {}
 with open(os.path.join(SteamPath, 'csgo/scripts/items/items_game.txt'), 'r') as itemfile:
