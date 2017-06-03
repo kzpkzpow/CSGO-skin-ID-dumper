@@ -2,9 +2,10 @@ import re
 import io
 import os
 
-# Point the script to your CSGO folder and it will get up to date skin IDs and names and output to item_index.txt
+# If you use Windblows :P C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/
+# If you use a Mac use /Users/USER/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/
 
-SteamPath = 'C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/'
+SteamPath = ' '
 
 skindata = {}
 with open(os.path.join(SteamPath, 'csgo/scripts/items/items_game.txt'), 'r') as itemfile:
