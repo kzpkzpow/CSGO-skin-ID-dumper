@@ -330,13 +330,13 @@
 411: Damascus Steel
 413: Marble Fade
 414: Rust Coat
-415: Doppler Ruby
-416: Doppler Sapphire
-417: Doppler Blackpearl
-418: Doppler Phase 1
-419: Doppler Phase 2
-420: Doppler Phase 3
-421: Doppler Phase 4
+415: Doppler Ruby https://csgostash.com/img/skins/large_1920/s542-ruby.png
+416: Doppler Sapphire https://csgostash.com/img/skins/large_1920/s542-sapphire.png
+417: Doppler Blackpearl https://csgostash.com/img/skins/large_1920/s542-blackpearl.png
+418: Doppler Phase 1 https://csgostash.com/img/skins/large_1920/s542-p1.png
+419: Doppler Phase 2 https://csgostash.com/img/skins/large_1920/s542-p2.png
+420: Doppler Phase 3 https://csgostash.com/img/skins/large_1920/s542-p3.png
+421: Doppler Phase 4 https://csgostash.com/img/skins/large_1920/s542-p4.png
 422: Elite Build
 423: Armor Core
 424: Worm God
@@ -480,11 +480,11 @@
 565: Black Laminate
 566: Black Laminate
 567: Black Laminate
-568: Gamma Doppler Emerald Marble
-569: Gamma Doppler Phase 1
-570: Gamma Doppler Phase 2	
-571: Gamma Doppler Phase 3
-572: Gamma Doppler Phase 4
+568: Gamma Doppler Emerald Marble https://csgostash.com/img/skins/large_1920/s782-emerald.png
+569: Gamma Doppler Phase 1 https://csgostash.com/img/skins/large_1920/s782-p1.png
+570: Gamma Doppler Phase 2 https://csgostash.com/img/skins/large_1920/s782-p2.png	
+571: Gamma Doppler Phase 3 https://csgostash.com/img/skins/large_1920/s782-p3.png
+572: Gamma Doppler Phase 4 https://csgostash.com/img/skins/large_1920/s782-p4.png
 573: Autotronic
 574: Autotronic
 575: Autotronic
