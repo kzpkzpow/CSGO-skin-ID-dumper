@@ -1,7 +1,7 @@
 # CSGO-skin-ID-dumper
 Dump CSGO skin IDs directly from game files.
 
-If you just want the CS:GO weapon/skin IDs, look in [item_index.txt](https://github.com/adamb70/CSGO-skin-ID-dumper/blob/master/item_index.txt)
+If you just want the CS:GO weapon/skin IDs, look in [item_index.txt](https://github.com/sonicrules11/CSGO-skin-ID-dumper/blob/master/item_index.txt)
 
 ## Usage
 Windows Method:
