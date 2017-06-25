@@ -2,9 +2,6 @@ import re
 import io
 import os
 
-# If you use Windblows :P C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/
-# If you use a Mac use /Users/USER/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/
-
 SteamPath = ' Change Me :) '
 
 skindata = {}
