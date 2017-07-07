@@ -11,4 +11,10 @@ OSX Method:
 Point [SteamPath var](https://github.com/sonicrules11/CSGO-skin-ID-dumper/blob/master/skin_id_getter.py#L5) to CSGO base folder eg.
 `'/Users/USER/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/'` and run.
 
+Linux Method:
+Point [SteamPath var](https://github.com/sonicrules11/CSGO-skin-ID-dumper/blob/master/skin_id_getter.py#L5) to CSGO base folder eg.
+`'/home/steam/.steam/steam/steamapps/common/Counter-Strike Global Offensive/'` and run.
+
+
+
 Will Update when new CS:GO case comes out 
