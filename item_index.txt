@@ -619,6 +619,24 @@
 704: Arctic Wolf
 705: Cortex
 706: Oxide Blaze
+707: Neon Rider
+708: Amber Slipstream
+709: Eco
+710: Shred
+711: Code Red
+712: High Seas
+713: Warhawk
+714: Nightmare
+715: Capillary
+716: Toy Soldier
+717: Traction
+718: PAW
+719: Powercore
+720: Devourer
+721: Survivalist
+722: Snek-9
+723: Eye of Athena
+735: Night Stripe
 10006: Charred
 10007: Snakebite
 10008: Bronzed
