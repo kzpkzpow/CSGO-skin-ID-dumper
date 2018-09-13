@@ -2,7 +2,7 @@ import re
 import io
 import os
 
-SteamPath = '/Users/jameshenson/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/'
+SteamPath = 'Change Me :)'
 
 skindata = {}
 with open(os.path.join(SteamPath, 'csgo/scripts/items/items_game.txt'), 'r') as itemfile:
