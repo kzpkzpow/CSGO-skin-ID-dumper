@@ -15,6 +15,6 @@ Linux Method:
 Point [SteamPath var](https://github.com/sonicrules11/CSGO-skin-ID-dumper/blob/master/skin_id_getter.py#L5) to CSGO base folder eg.
 `'/home/steam/.steam/steam/steamapps/common/Counter-Strike Global Offensive/'` and run. `Type python ./skin_id_getter.py in terminal`
 
-Any info you need on python go [here](https://en.wikibooks.org/wiki/Python_Programming/Creating_Python_Programs)
+Any info you need on python go [here](https://en.wikibooks.org/wiki/Python_Programming)
 
 Will Update when new CS:GO case comes out
