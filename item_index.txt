@@ -637,6 +637,40 @@
 722: Snek-9
 723: Eye of Athena
 735: Night Stripe
+747: Twin Turbo
+748: Calf Skin
+749: Vino Primo
+750: Integrale
+751: Hand Brake
+752: Fade
+753: Dirt Drop
+754: Rust Coat
+755: Slide
+775: Facility Sketch
+776: Facility Negative
+777: Facility Draft
+778: Facility Dark
+779: Random Access
+780: Mainframe
+781: Co-Processor
+782: Motherboard
+783: Bulkhead
+784: Coolant
+785: Mandrel
+786: Exchanger
+787: Core Breach
+788: Acheron
+789: Nuclear Garden
+790: Cold Fusion
+791: Remote Control
+792: Control Panel
+793: Converter
+794: Sweeper
+795: Safety Net
+796: Check Engine
+797: Brake Light
+798: Nitro
+799: High Beam
 10006: Charred
 10007: Snakebite
 10008: Bronzed
