@@ -646,6 +646,7 @@
 753: Dirt Drop
 754: Rust Coat
 755: Slide
+809: Wood Fired
 775: Facility Sketch
 776: Facility Negative
 777: Facility Draft
@@ -671,6 +672,23 @@
 797: Brake Light
 798: Nitro
 799: High Beam
+800: Lab Rats
+801: Asiimov
+802: Momentum
+803: Neo-Noir
+804: Modest Threat
+805: Mecha Industries
+806: Scavenger
+807: Signal
+808: Oxide Blaze
+810: Phosphor
+811: Magnesium
+812: Pipe Down
+813: Nevermore
+814: Black Sand
+815: Danger Close
+816: Fubar
+817: Flashback
 10006: Charred
 10007: Snakebite
 10008: Bronzed
