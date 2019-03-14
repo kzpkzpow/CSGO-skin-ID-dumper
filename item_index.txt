@@ -689,6 +689,11 @@
 815: Danger Close
 816: Fubar
 817: Flashback
+836: Uncharted
+837: Angry Mob
+838: Atheris
+844: Emperor
+845: Momentum
 10006: Charred
 10007: Snakebite
 10008: Bronzed
